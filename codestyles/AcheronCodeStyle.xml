@@ -1,0 +1,8 @@
+<code_scheme name="AcheronCodeStyle">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="RIGHT_MARGIN" value="200" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>

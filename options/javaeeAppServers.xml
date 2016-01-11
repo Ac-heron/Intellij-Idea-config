@@ -1,0 +1,36 @@
+<application>
+  <component name="AppserversManager">
+    <ServerDK NAME="Tomcat 7.0.54">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="D:/javatools/apache-tomcat-7.0.54" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="Tomcat 6.0.44">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="D:/javatools/apache-tomcat-6.0.44" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <LibraryTable>
+      <library name="Tomcat 6.0.44">
+        <CLASSES>
+          <root url="jar://D:/javatools/apache-tomcat-6.0.44/lib/jsp-api.jar!/" />
+          <root url="jar://D:/javatools/apache-tomcat-6.0.44/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Tomcat 7.0.54">
+        <CLASSES>
+          <root url="jar://D:/javatools/apache-tomcat-7.0.54/lib/jsp-api.jar!/" />
+          <root url="jar://D:/javatools/apache-tomcat-7.0.54/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+  </component>
+</application>

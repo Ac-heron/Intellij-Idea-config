@@ -1,0 +1,1 @@
+SELECT * from EMERG_TASK

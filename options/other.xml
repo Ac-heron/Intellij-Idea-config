@@ -1,0 +1,113 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AOP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BackgroundImageConfiguration">
+    <option name="filename" value="F:\Dropbox\相机上传\动漫\23.jpg" />
+    <option name="localFile" value="true" />
+    <option name="enabled" value="true" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="DEBUGGER_TRANSPORT" value="1" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://60.191.3.210/svn/CHSP/%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/" />
+        <option value="http://svn.apache.org/repos/asf/shiro/tags/shiro-root-1.2.4" />
+        <option value="https://60.191.3.210/svn/CHSP/原型/输出稿" />
+        <option value="https://60.191.3.210/svn/CHSP/服务管理平台_V2" />
+        <option value="https://Acheron-pc/svn/life/" />
+        <option value="https://60.191.3.210/svn/CHSP/文档" />
+        <option value="https://60.191.3.210/svn/CHSP/服务商公众平台/API_CSS" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://60.191.3.210/svn/CHSP/%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/" />
+        <option value="http://svn.apache.org/repos/asf/shiro/tags/shiro-root-1.2.4" />
+        <option value="https://60.191.3.210/svn/CHSP/原型/输出稿" />
+        <option value="https://60.191.3.210/svn/CHSP/服务管理平台_V2" />
+        <option value="https://acheron-pc/svn/" />
+        <option value="https://Acheron-pc/svn/" />
+        <option value="https://Acheron-pc/svn/life/" />
+        <option value="https://60.191.3.210/svn/CHSP/文档" />
+        <option value="https://60.191.3.210/svn/CHSP/服务商公众平台/API_CSS" />
+        <option value="https://60.191.3.210/svn/CHSP/" />
+        <option value="https://192.168.40.39/svn/txHyfzDevelopment" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\javatools\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
