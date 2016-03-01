@@ -84,8 +84,8 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="https://60.191.3.210/svn/CHSP/%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/" />
-        <option value="http://svn.apache.org/repos/asf/shiro/tags/shiro-root-1.2.4" />
+        <option value="https://60.191.3.210/svn/CHSP/" />
+        <option value="https://60.191.3.210/svn/CHSP/城市平台" />
         <option value="https://60.191.3.210/svn/CHSP/原型/输出稿" />
         <option value="https://60.191.3.210/svn/CHSP/服务管理平台_V2" />
         <option value="https://Acheron-pc/svn/life/" />
@@ -95,6 +95,8 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://60.191.3.210/svn/CHSP/" />
+        <option value="https://60.191.3.210/svn/CHSP/城市平台" />
         <option value="https://60.191.3.210/svn/CHSP/%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/" />
         <option value="http://svn.apache.org/repos/asf/shiro/tags/shiro-root-1.2.4" />
         <option value="https://60.191.3.210/svn/CHSP/原型/输出稿" />
@@ -104,7 +106,6 @@
         <option value="https://Acheron-pc/svn/life/" />
         <option value="https://60.191.3.210/svn/CHSP/文档" />
         <option value="https://60.191.3.210/svn/CHSP/服务商公众平台/API_CSS" />
-        <option value="https://60.191.3.210/svn/CHSP/" />
         <option value="https://192.168.40.39/svn/txHyfzDevelopment" />
       </list>
     </option>

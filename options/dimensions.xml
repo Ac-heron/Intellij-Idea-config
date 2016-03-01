@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="svn.repositoryBrowser.0.0.1366.768" x="441" y="56" />
+    <location key="svn.repositoryBrowser.0.0.1366.768" x="255" y="43" />
     <location key="FileChooserDialogImpl.0.0.1366.768" x="488" y="84" />
     <location key="svn4idea.checkout.options.0.0.1366.768" x="305" y="180" />
     <location key="svn.upgradeDialog.0.0.1366.768" x="488" y="238" />
@@ -8,18 +8,18 @@
     <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="377" />
     <location key="#Project_Structure.0.0.1366.768" x="326" y="30" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="397" y="215" />
-    <location key="SettingsEditor.0.0.1366.768" x="101" y="137" />
-    <location key="OptionsEditor.0.0.1366.768" x="163" y="30" />
+    <location key="SettingsEditor.0.0.1366.768" x="89" y="78" />
+    <location key="OptionsEditor.0.0.1366.768" x="263" y="46" />
     <location key="NewModule_or_Project.wizard.0.0.1366.768" x="319" y="50" />
     <location key="#Inspections.0.0.1366.768" x="511" y="44" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="205" y="49" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="164" y="30" />
     <location key="org.jetbrains.idea.maven.utils.RepositoryAttachDialog.0.0.1366.768" x="381" y="286" />
     <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1366.768" x="513" y="86" />
     <location key="#Tomcat_Server.0.0.1366.768" x="491" y="297" />
-    <location key="StructurePopup.0.0.1366.768" x="496" y="151" />
+    <location key="StructurePopup.0.0.1366.768" x="465" y="120" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="427" y="223" />
     <location key="com.intellij.openapi.vcs.changes.UnversionedViewDialog.0.0.1366.768" x="503" y="136" />
-    <location key="ProcessPopupWindow.0.0.1366.768" x="592" y="140" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="595" y="148" />
     <location key="DiffContextDialog.0.0.1366.768" x="92" y="122" />
     <location key="#Intentions.0.0.1366.768" x="275" y="50" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="428" y="83" />
@@ -27,7 +27,7 @@
     <location key="Subversion.BranchConfigurationDialog.0.0.1366.768" x="425" y="228" />
     <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1366.768" x="413" y="147" />
     <location key="DetectedRootsChooserDialog.0.0.1366.768" x="437" y="107" />
-    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1366.768" x="225" y="40" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1366.768" x="225" y="31" />
     <location key="#tomcat7.0.0.1366.768" x="339" y="30" />
     <location key="#BuildArtifactsBeforeRunChooser.0.0.1366.768" x="491" y="214" />
     <location key="VCS.ChangelistChooser.0.0.1366.768" x="498" y="222" />
@@ -37,7 +37,7 @@
     <location key="#Vim_Emulation.0.0.1366.768" x="432" y="113" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="100" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="147" />
-    <location key="findTextDialog.0.0.1366.768" x="580" y="132" />
+    <location key="findTextDialog.0.0.1366.768" x="711" y="100" />
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1366.768" x="237" y="308" />
     <location key="#Setter_Template.0.0.1366.768" x="0" y="71" />
     <location key="org.jetbrains.idea.svn.history.SvnEditCommitMessageDialog.0.0.1366.768" x="520" y="272" />
@@ -81,7 +81,7 @@
     <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.1366.768" x="494" y="254" />
     <location key="#Live_Templates.0.0.1366.768" x="418" y="30" />
     <location key="#Menus_and_Toolbars.0.0.1366.768" x="466" y="162" />
-    <location key="replaceTextDialog.0.0.1366.768" x="666" y="166" />
+    <location key="replaceTextDialog.0.0.1366.768" x="445" y="103" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="513" y="30" />
     <location key="svn.sslDialog.0.0.1366.768" x="452" y="281" />
     <location key="svn.passwordDialog.0.0.1366.768" x="466" y="295" />
@@ -101,43 +101,52 @@
     <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1366.768" x="283" y="229" />
     <location key="Vcs.Push.Dialog.0.0.1366.768" x="384" y="97" />
     <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" x="220" y="114" />
-    <size key="svn.repositoryBrowser.0.0.1366.768" width="340" height="574" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.3.left.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.3.center.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.3.right.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.3.bottom.0.0.1366.768" width="1366" height="280" />
-    <size key="StructurePopup.0.0.1366.768" width="428" height="445" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="471" y="265" />
+    <location key="Github.UntrackedFilesDialog.0.0.1366.768" x="461" y="103" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1366.768" x="264" y="34" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="429" y="260" />
+    <location key="classpath-attribute-editor.0.0.1366.768" x="637" y="251" />
+    <location key="com.intellij.database.view.editors.DatabaseObjectCommentEditor$1$1.0.0.1366.768" x="585" y="307" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1366.768" x="452" y="214" />
+    <location key="#com.intellij.unscramble.UnscrambleDialog.0.0.1366.768" x="363" y="53" />
+    <location key="svn.sslCredentialsDialog.0.0.1366.768" x="633" y="138" />
+    <size key="svn.repositoryBrowser.0.0.1366.768" width="965" height="574" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.3.left.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.3.center.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.3.right.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.3.bottom.0.0.1366.768" width="1320" height="287" />
+    <size key="StructurePopup.0.0.1366.768" width="444" height="445" />
     <size key="ProcessPopupWindow.0.0.1366.768" width="411" height="189" />
     <size key="DiffContextDialog.0.0.1366.768" width="1182" height="554" />
     <size key="javadoc.popup.0.0.1366.768" width="446" height="166" />
-    <size key="GridCell.Tab.4.left.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.4.center.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.4.right.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.4.bottom.0.0.1366.768" width="1366" height="280" />
-    <size key="GridCell.Tab.5.left.0.0.1366.768" width="1003" height="177" />
-    <size key="GridCell.Tab.5.center.0.0.1366.768" width="1003" height="177" />
-    <size key="GridCell.Tab.5.right.0.0.1366.768" width="1003" height="177" />
-    <size key="GridCell.Tab.5.bottom.0.0.1366.768" width="1003" height="177" />
+    <size key="GridCell.Tab.4.left.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.4.center.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.4.right.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.4.bottom.0.0.1366.768" width="1320" height="287" />
+    <size key="GridCell.Tab.5.left.0.0.1366.768" width="1308" height="190" />
+    <size key="GridCell.Tab.5.center.0.0.1366.768" width="1308" height="190" />
+    <size key="GridCell.Tab.5.right.0.0.1366.768" width="1308" height="190" />
+    <size key="GridCell.Tab.5.bottom.0.0.1366.768" width="1308" height="190" />
     <size key="#tomcat7.0.0.1366.768" width="719" height="743" />
     <size key="changelist.details.popup.0.0.1366.768" width="252" height="98" />
     <size key="DebuggerActiveHint.0.0.1366.768" width="631" height="473" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" width="1182" height="554" />
-    <size key="GridCell.Tab.6.left.0.0.1366.768" width="1322" height="307" />
-    <size key="GridCell.Tab.6.center.0.0.1366.768" width="1322" height="307" />
-    <size key="GridCell.Tab.6.right.0.0.1366.768" width="1322" height="307" />
-    <size key="GridCell.Tab.6.bottom.0.0.1366.768" width="1322" height="307" />
+    <size key="GridCell.Tab.6.left.0.0.1366.768" width="1316" height="186" />
+    <size key="GridCell.Tab.6.center.0.0.1366.768" width="1316" height="186" />
+    <size key="GridCell.Tab.6.right.0.0.1366.768" width="1316" height="186" />
+    <size key="GridCell.Tab.6.bottom.0.0.1366.768" width="1316" height="186" />
     <size key="SettingsEditor.0.0.1366.768" width="968" height="631" />
     <size key="CommitChangelistDialog2.0.0.1366.768" width="900" height="546" />
     <size key="VCS.EditChangelistDialog.0.0.1366.768" width="345" height="216" />
@@ -181,6 +190,14 @@
     <size key="GridCell.Tab.13.center.0.0.1366.768" width="1322" height="247" />
     <size key="GridCell.Tab.13.right.0.0.1366.768" width="1322" height="247" />
     <size key="GridCell.Tab.13.bottom.0.0.1366.768" width="1322" height="247" />
+    <size key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1366.768" width="982" height="657" />
+    <size key="GridCell.Tab.14.left.0.0.1366.768" width="1308" height="190" />
+    <size key="GridCell.Tab.14.center.0.0.1366.768" width="1308" height="190" />
+    <size key="GridCell.Tab.14.right.0.0.1366.768" width="1308" height="190" />
+    <size key="GridCell.Tab.14.bottom.0.0.1366.768" width="1308" height="190" />
+    <size key="svn4idea.mkdir.options.0.0.1366.768" width="684" height="397" />
+    <size key="replaceTextDialog.0.0.1366.768" width="491" height="665" />
+    <size key="OptionsEditor.0.0.1366.768" width="1034" height="696" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />

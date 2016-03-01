@@ -1,57 +1,68 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>*batis.xml</find>
-      <find>&lt;mappers&gt;</find>
-      <find>perms-locations</find>
-      <find>TreeNode</find>
-      <find>class</find>
-      <find>callSettersOnNulls</find>
-      <find>settings</find>
-      <find>xiaofei</find>
-      <find>RetrievePassWord</find>
-      <find>Facilitator</find>
-      <find>zhiye</find>
-      <find>jacson</find>
-      <find>http</find>
+      <find>jigoubh</find>
+      <find>java.lang.Integer jigoubh</find>
+      <find>java.lang.Integer getJigoubh()</find>
+      <find>${bean.xingbie}</find>
+      <find>MappingJackson2HttpMessageConverter</find>
+      <find>&lt;mvc:message-converters&gt;</find>
+      <find>editor/kind/upload.do</find>
+      <find>editor</find>
+      <find>AjaxBean</find>
+      <find>servlet</find>
+      <find>httpcom</find>
+      <find>poi</find>
+      <find>httpclient</find>
+      <find>junit</find>
+      <find>3.13</find>
+      <find>jpa</find>
+      <find>bean</find>
+      <find>jcache</find>
+      <find>servlet</find>
+      <find>asm</find>
+      <find>spring</find>
+      <find>spring.</find>
+      <find>4.2.5.RELEASE</find>
+      <find>jack</find>
+      <find>3.2.8</find>
       <find>jackson</find>
-      <find>WmApiUtil.do</find>
-      <find>上午</find>
-      <find>setEntityDesc</find>
-      <find>EntityDesc</find>
-      <find>loginTitle</find>
-      <find>id</find>
-      <find>attr</find>
-      <find>countRjzrc</find>
-      <find>IYysyGuahaosyDao</find>
-      <find>from</find>
-      <find>FROM</find>
-      <find>tuxun</find>
-      <find>net.tuxun</find>
-      <find>ta</find>
-      <find>liushuiha</find>
-      <find>liush</find>
+      <find>spring.ver</find>
+      <find>quartz</find>
+      <find>vali</find>
+      <find>validate</find>
     </findStrings>
     <replaceStrings>
-      <replace />
-      <replace>net.tuxun</replace>
-      <replace>wmchoice</replace>
-      <replace>Acheron</replace>
-      <replace>杭州求是物联</replace>
-      <replace>import com.wmchoice.customer.module.info</replace>
-      <replace>herohuang</replace>
-      <replace />
-      <replace>MP_LIANXIWM</replace>
-      <replace>MP_ZIXUN</replace>
-      <replace>MP_JIEJUEAL</replace>
-      <replace>MP_CHANPINAL</replace>
-      <replace>info</replace>
-      <replace>杭州</replace>
-      <replace>新闻</replace>
-      <replace>杭州求是同创网络科技有限公司</replace>
-      <replace>com.iacheron</replace>
-      <replace>LinkedHashMap</replace>
-      <replace>com.wmchoice</replace>
+      <replace>getJiuzhenid</replace>
+      <replace>SHENQINGYSXM</replace>
+      <replace>shenqingysxm</replace>
+      <replace>setShenqingysxm</replace>
+      <replace>getShenqingysxm</replace>
+      <replace>jiezhenksmc</replace>
+      <replace>setJiezhenksmc</replace>
+      <replace>getJiezhenksmc</replace>
+      <replace>JIEZHENKSMC</replace>
+      <replace>RUYUANRQ</replace>
+      <replace>ruyuanrq</replace>
+      <replace>setRuyuanrq</replace>
+      <replace>getRuyuanrq</replace>
+      <replace>shanchubz</replace>
+      <replace>setShanchubz</replace>
+      <replace>getShanchubz</replace>
+      <replace>SHANCHUBZ</replace>
+      <replace>CHUYUANZDMC</replace>
+      <replace>chuyuanzdmc</replace>
+      <replace>setChuyuanzdmc</replace>
+      <replace>getChuyuanzdmc</replace>
+      <replace>zhuyuanzfy</replace>
+      <replace>setZhuyuanzfy</replace>
+      <replace>getZhuyuanzfy</replace>
+      <replace>ZHUYUANZFY</replace>
+      <replace>&lt;fmt:formatDate value=&quot;${bean.shijianchuo}&quot; pattern=&quot;yyyy-MM-dd HH:mm:ss&quot; /&gt;</replace>
+      <replace>&lt;result property=&quot;jigoubh&quot; column=&quot;JIGOUBH&quot; jdbcType=&quot;NVARCHAR&quot;/&gt;</replace>
+      <replace>java.lang.String jigoubh</replace>
+      <replace>java.lang.String getJigoubh()</replace>
+      <replace>&lt;c:if test=&quot;${bean.xingbie==1}&quot;&gt;男&lt;/c:if&gt;             &lt;c:if test=&quot;${bean.xingbie==2}&quot;&gt;女&lt;/c:if&gt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\IdeaProjects\customerProjects\demo</dir>
@@ -59,6 +70,8 @@
       <dir>D:\IdeaProjects\component\component-kindEditor\trunk\src\main\java</dir>
       <dir>D:\IdeaProjects\customerProjects\wm_yunying\src\main\webapp\vendor\jBox</dir>
       <dir>D:\IdeaProjects\utility\CoderGenerate\src\developer\resource</dir>
+      <dir>D:\IdeaProjects\framework-core</dir>
+      <dir>D:\IdeaProjects\component\component-admin\trunk\src\main\resources</dir>
     </dirStrings>
   </component>
 </application>
