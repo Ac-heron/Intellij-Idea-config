@@ -440,6 +440,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.cfignore">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.cgi">
       <plugins>
         <option name="myPlugins">
@@ -656,6 +669,19 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.config">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="AWS Elastic Beanstalk" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -941,6 +967,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.dsl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.dslplatform.ideaplugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.dylan">
       <plugins>
         <option name="myPlugins">
@@ -1056,6 +1095,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.illuminatedcloud.intellij" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.eslintignore">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -1535,7 +1587,7 @@
               <option name="myBundled" value="false" />
             </plugin>
             <plugin>
-              <option name="myPluginId" value="ideah" />
+              <option name="myPluginId" value="intellij.haskell" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -1989,7 +2041,7 @@
               <option name="myBundled" value="false" />
             </plugin>
             <plugin>
-              <option name="myPluginId" value="ideah" />
+              <option name="myPluginId" value="intellij.haskell" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -2123,11 +2175,6 @@
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
-            <plugin>
-              <option name="myPluginId" value="net.nicoulaj.idea.markdown" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
           </set>
         </option>
       </plugins>
@@ -2186,11 +2233,6 @@
               <option name="myBundled" value="false" />
             </plugin>
             <plugin>
-              <option name="myPluginId" value="net.nicoulaj.idea.markdown" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-            <plugin>
               <option name="myPluginId" value="org.intellij.plugins.markdown" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
@@ -2218,11 +2260,6 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-            <plugin>
-              <option name="myPluginId" value="net.nicoulaj.idea.markdown" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -4726,6 +4763,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key=".cfignore">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key=".chefignore">
       <plugins>
         <option name="myPlugins">
@@ -4753,6 +4803,19 @@
       </plugins>
     </entry>
     <entry key=".dockerignore">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key=".eslintignore">
       <plugins>
         <option name="myPlugins">
           <set>

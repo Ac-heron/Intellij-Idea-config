@@ -4,7 +4,6 @@
     <extensionMap>
       <removed_mapping ext="zip" type="ARCHIVE" />
       <removed_mapping ext="war" type="ARCHIVE" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

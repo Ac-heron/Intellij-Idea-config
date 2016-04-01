@@ -3,18 +3,17 @@
     <property name="log.debug.categories" value="" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="2" />
-    <property name="file.chooser.recent.files" value="D:/javatools/IDEA/IntellijIdea15_conf/config&#10;D:/javatools/Java/jdk1.8.0_71/src&#10;D:/javatools/Java/jdk1.8.0_71&#10;D:/IdeaProjects/pom-root&#10;D:/IdeaProjects/component/component-kindEditor/trunk&#10;D:/javatools/jdk1.6.0_38&#10;D:/IdeaProjects/framework-core&#10;D:/IdeaProjects/component/component-admin/trunk&#10;D:/javatools/apache-tomcat-8.0.30&#10;D:/IdeaProjects/opensource/FullPageSwitch&#10;D:/IdeaProjects/opensource/FullPageSwtich&#10;D:/IdeaProjects/utility/CoderGenerate/src/META-INF/MANIFEST.MF&#10;D:/javatools/IDEA/intellij-colors-solarized-master&#10;D:/javatools/IDEA/Solarized Dark.icls&#10;D:/javatools/Java/jdk1.7.0_65/src&#10;D:/IdeaProjects/opensource/mybatis-3&#10;D:/IdeaProjects/component/component-excel/trunk&#10;D:/IdeaProjects/customerProjects/wm_cityplatform&#10;D:/IdeaProjects/opensource&#10;F:/MyLife/myblogs&#10;D:/IdeaProjects/customerProjects/jh_scjd&#10;D:/IdeaProjects/customerProjects/wm_yunying&#10;D:/&#10;D:/IdeaProjects/utility/CoderGenerate&#10;D:/IdeaProjects/customerProjects/wxpay_service&#10;D:/IdeaProjects/customerProjects/wm_fuwushang&#10;D:/IdeaProjects/customerProjects/wm_service_provider&#10;D:/IdeaProjects/customerProjects/wm_yunying/src/main/resources/com/wmchoice/customer/module/city/dao&#10;D:/IdeaProjects/customerProjects/demo&#10;D:/IdeaProjects/customerProjects/demo/target" />
-    <property name="project.wizard.group" value="JAVA_MODULE" />
-    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="file.chooser.recent.files" value="D:/IdeaProjects/customerProjects/wm_web&#10;F:/MyLife/myblogs/2016&#10;F:/MyLife/myblogs/2015&#10;D:/IdeaProjects/framework-core&#10;D:/IdeaProjects/component/component-admin/trunk&#10;D:/IdeaProjects/pingtaiProjects/herohuang-core&#10;D:/IdeaProjects/pingtaiProjects/framework-core&#10;D:/IdeaProjects/pingtaiProjects/mytask&#10;D:/IdeaProjects/customerProjects/mytask&#10;D:/javatools/jdk1.6.0_38&#10;D:/IdeaProjects/pingtaiProjects/rhitc&#10;D:/IdeaProjects/pingtaiProjects&#10;D:/IdeaProjects/pingtaiProjects/datatransfer&#10;D:/javatools/gradle-2.11&#10;D:/javatools/Java/jdk1.7.0_65&#10;D:/javatools/IDEA/IntellijIdea15_conf/config&#10;D:/javatools/Java/jdk1.8.0_71/src&#10;D:/javatools/Java/jdk1.8.0_71&#10;D:/IdeaProjects/pom-root&#10;D:/IdeaProjects/component/component-kindEditor/trunk&#10;D:/javatools/apache-tomcat-8.0.30&#10;D:/IdeaProjects/opensource/FullPageSwitch&#10;D:/IdeaProjects/opensource/FullPageSwtich&#10;D:/IdeaProjects/utility/CoderGenerate/src/META-INF/MANIFEST.MF&#10;D:/javatools/IDEA/intellij-colors-solarized-master&#10;D:/javatools/IDEA/Solarized Dark.icls&#10;D:/javatools/Java/jdk1.7.0_65/src&#10;D:/IdeaProjects/opensource/mybatis-3&#10;D:/IdeaProjects/component/component-excel/trunk&#10;D:/IdeaProjects/customerProjects/wm_cityplatform" />
+    <property name="project.wizard.group" value="spring" />
     <property name="project.wizard.template" value="Java" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="lastTip" value="33" />
-    <property name="last.imported.location" value="D:/IdeaProjects/pom-root" />
+    <property name="last.imported.location" value="D:/IdeaProjects/framework-core" />
     <property name="create.project.preferred.importer" value="Maven" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="power.save.mode" value="false" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="key&#10;key pro&#10;theme&#10;sublime&#10;Material Theme UI" />
+    <property name="PLUGIN_FILTER" value="maven&#10;maen&#10;markdown&#10;markd&#10;mark" />
     <property name="FileStructurePopup.narrowDown" value="true" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.74216866" />
     <property name="ShortcutTranslatorSourceKeymap" value="Eclipse" />
@@ -24,7 +23,7 @@
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15515904" />
     <property name="SpringBeansModulesPanel[0]" value="0.15515904" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FileTemplates.SelectedTemplate" value="Jsp File" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="com.intellij.database.view.ui.AddColumnDialog.previewExpanded" value="true" />
@@ -32,7 +31,7 @@
     <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
     <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
     <property name="settings.code.style.selected.tab.HTML" value="Other" />
-    <property name="fileTypeChangedCounter" value="6" />
+    <property name="fileTypeChangedCounter" value="9" />
     <property name="ignore.power.save.mode" value="true" />
     <property name="INSPECTION_FILTER_HISTORY" value="spelling&#10;&quot;New in 13&quot;" />
     <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6836903" />
@@ -43,8 +42,6 @@
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
-    <property name="java.anonymous.provider.file.structure.state" value="false" />
-    <property name="LayoutCode.rearrangeEntries" value="false" />
     <property name="KEYMAP" value="" />
     <property name="introduce.variable.prefer.statements" value="false" />
     <property name="com.intellij.database.view.ui.AddTableDialog.previewExpanded" value="true" />
@@ -92,6 +89,12 @@
     <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
     <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
     <property name="com.intellij.database.view.editors.ObjectEditorWithPreview.proportion" value="0.53488374" />
-    <property name="ProjectStructure.SecondLevelElements" value="0.22988506" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="last.used.gradle.home" value="D:/javatools/gradle-2.11" />
+    <property name="MoveFile.OpenInEditor" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
   </component>
 </application>

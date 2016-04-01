@@ -77,6 +77,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.thymeleaf.org" location="http://www.thymeleaf.org" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
@@ -84,6 +87,8 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://192.168.1.211/!/#project/view/head/BS%E7%89%88%E6%9C%AC%E9%A1%B9%E7%9B%AE" />
+        <option value="https://EHIT-HOST/svn/project/BS版本项目" />
         <option value="https://60.191.3.210/svn/CHSP/" />
         <option value="https://60.191.3.210/svn/CHSP/城市平台" />
         <option value="https://60.191.3.210/svn/CHSP/原型/输出稿" />
@@ -95,6 +100,9 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://192.168.1.211/!/#project/view/head/BS%E7%89%88%E6%9C%AC%E9%A1%B9%E7%9B%AE" />
+        <option value="https://EHIT-HOST/svn/project/BS版本项目" />
+        <option value="https://choice-ide1/svn/project/BS版本项目" />
         <option value="https://60.191.3.210/svn/CHSP/" />
         <option value="https://60.191.3.210/svn/CHSP/城市平台" />
         <option value="https://60.191.3.210/svn/CHSP/%E8%BF%90%E8%90%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/" />

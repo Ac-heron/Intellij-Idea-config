@@ -1,4 +1,4 @@
 /**
- * @author ${USER}
- * Created on ${DATE}
+ * 
+ * @author herohuang.com created on ${DATE}
  */

@@ -4,305 +4,367 @@
       <project id="wxpay_scanpay_java_demo_proj" values="1.8" collectionTime="1445588136441" />
       <project id="HelloHero" values="1.8" collectionTime="1438333135290" />
       <project id="CHSP" values="1.8,1.8,1.8" collectionTime="1445225093372" />
-      <project id="wm_yunying" values="1.8" collectionTime="1455697983271" />
+      <project id="wm_yunying" values="1.8" collectionTime="1459391953191" />
       <project id="storage" values="1.8" collectionTime="1441589170109" />
-      <project id="wm_cityplatform" values="1.8" collectionTime="1456739561325" />
-      <project id="mytask" values="1.8" collectionTime="1438851292468" />
+      <project id="wm_cityplatform" values="1.8" collectionTime="1459409414606" />
+      <project id="rhitc" values="1.8" collectionTime="1458812577580" />
     </group>
     <group name="JavaScript versions">
-      <project id="JZLD" values="DEFAULT" collectionTime="1445837917864" />
+      <project id="rhitc" values="ECMAScript 5.1" collectionTime="1458812577580" />
       <project id="test" values="DEFAULT" collectionTime="1448268563410" />
-      <project id="untitled" values="DEFAULT" collectionTime="1441597285531" />
-      <project id="demo" values="DEFAULT" collectionTime="1448870497801" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1458205253886" />
+      <project id="JZLD" values="DEFAULT" collectionTime="1445837917864" />
+      <project id="lkasjdf" values="ECMAScript 5.1" collectionTime="1457488641817" />
       <project id="FullPageSwitch" values="ECMAScript 5.1" collectionTime="1453969213532" />
-      <project id="config" values="ECMAScript 5.1" collectionTime="1452499835014" />
+      <project id="config" values="ECMAScript 5.1" collectionTime="1456796632753" />
       <project id="spring-data-redis-demo" values="DEFAULT" collectionTime="1443579442194" />
       <project id="jdk1.7-src" values="ECMAScript 5.1" collectionTime="1452512566606" />
       <project id="HelloHero" values="DEFAULT" collectionTime="1438333135291" />
-      <project id="wm_yunying" values="ECMAScript 5.1" collectionTime="1455697983272" />
-      <project id="myblogs" values="ECMAScript 5.1" collectionTime="1456389300163" />
+      <project id="wm_yunying" values="ECMAScript 5.1" collectionTime="1459391953191" />
+      <project id="myblogs" values="ECMAScript 5.1" collectionTime="1459412142125" />
       <project id="wxpay" values="DEFAULT" collectionTime="1446189810318" />
-      <project id="mytask" values="DEFAULT" collectionTime="1438851292471" />
-      <project id="CoderGenerate" values="ECMAScript 5.1" collectionTime="1455609034047" />
+      <project id="CoderGenerate" values="ECMAScript 5.1" collectionTime="1458272109109" />
+      <project id="wm_web" values="ECMAScript 5.1" collectionTime="1459417136464" />
       <project id="OpenJDK-Research" values="DEFAULT" collectionTime="1442250178062" />
       <project id="wepay_service" values="DEFAULT" collectionTime="1445489833118" />
+      <project id="haha" values="ECMAScript 5.1" collectionTime="1457429289439" />
       <project id="wxpay_scanpay_java_demo_proj" values="DEFAULT" collectionTime="1445588136441" />
-      <project id="wm_cityplatform" values="ECMAScript 5.1" collectionTime="1456739561326" />
-      <project id="jzld" values="DEFAULT" collectionTime="1441504645874" />
+      <project id="wm_cityplatform" values="ECMAScript 5.1" collectionTime="1459409414606" />
+      <project id="demo" values="DEFAULT" collectionTime="1448870497801" />
       <project id="wm_fuwushang" values="ECMAScript 5.1" collectionTime="1456633638513" />
       <project id="wxpay-scanpay-java-demo" values="DEFAULT" collectionTime="1445589642808" />
       <project id="echarts" values="DEFAULT" collectionTime="1442250206630" />
       <project id="shiro-root" values="DEFAULT" collectionTime="1445941887658" />
+      <project id="hello" values="ECMAScript 5.1" collectionTime="1457429238547" />
       <project id="mybatis" values="ECMAScript 5.1" collectionTime="1452504328594" />
-      <project id="CHSP" values="DEFAULT" collectionTime="1445225093373" />
+      <project id="hehe" values="ECMAScript 5.1" collectionTime="1457490603655" />
+      <project id="mytask" values="ECMAScript 5.1" collectionTime="1459319355497" />
       <project id="wxpay_service" values="ECMAScript 5.1" collectionTime="1455703625064" />
       <project id="wxpay_scanpay_java_sdk_proj" values="DEFAULT" collectionTime="1445477416607" />
+      <project id="CHSP" values="DEFAULT" collectionTime="1445225093373" />
       <project id="FineReport" values="DEFAULT" collectionTime="1438590960617" />
-      <project id="jh_scjd" values="DEFAULT" collectionTime="1450095405944" />
+      <project id="jzld" values="DEFAULT" collectionTime="1441504645874" />
+      <project id="jh_scjd" values="ECMAScript 5.1" collectionTime="1457945874109" />
       <project id="storage" values="DEFAULT" collectionTime="1441589170249" />
       <project id="weixinpay-service" values="DEFAULT" collectionTime="1445993063488" />
+      <project id="anything-about-coding" values="ECMAScript 5.1" collectionTime="1459309175261" />
     </group>
     <group name="module type">
       <project id="spring-data-redis-demo" values="JAVA_MODULE" collectionTime="1443579441540" />
       <project id="OpenJDK-Research" values="JAVA_MODULE" collectionTime="1442250178053" />
       <project id="wepay_service" values="JAVA_MODULE" collectionTime="1445489833102" />
       <project id="wxpay_service" values="JAVA_MODULE" collectionTime="1455703624997" />
+      <project id="FullPageSwitch" values="JAVA_MODULE" collectionTime="1453969213366" />
       <project id="demo" values="JAVA_MODULE" collectionTime="1448870497212" />
-      <project id="config" values="JAVA_MODULE" collectionTime="1452499835009" />
-      <project id="CoderGenerate" values="JAVA_MODULE" collectionTime="1455609033564" />
+      <project id="JZLD" values="JAVA_MODULE" collectionTime="1445837917734" />
+      <project id="rhitc" values="JAVA_MODULE" collectionTime="1458812577510" />
+      <project id="CoderGenerate" values="JAVA_MODULE" collectionTime="1458272109020" />
+      <project id="anything-about-coding" values="JAVA_MODULE" collectionTime="1459309174512" />
       <project id="wxpay-scanpay-java-demo" values="JAVA_MODULE" collectionTime="1445589642790" />
       <project id="CHSP" values="JAVA_MODULE" collectionTime="1445225093364" />
       <project id="test" values="JAVA_MODULE" collectionTime="1448268563392" />
       <project id="wxpay_scanpay_java_demo_proj" values="JAVA_MODULE" collectionTime="1445588136408" />
-      <project id="HelloHero" values="JAVA_MODULE" collectionTime="1438333135154" />
-      <project id="mytask" values="JAVA_MODULE" collectionTime="1438851292328" />
+      <project id="wm_web" values="JAVA_MODULE" collectionTime="1459417136413" />
+      <project id="mytask" values="JAVA_MODULE" collectionTime="1459319355439" />
+      <project id="FineReport" values="JAVA_MODULE" collectionTime="1438590960194" />
       <project id="wm_fuwushang" values="JAVA_MODULE" collectionTime="1456633638358" />
       <project id="echarts" values="JAVA_MODULE" collectionTime="1442250206627" />
       <project id="mybatis" values="JAVA_MODULE" collectionTime="1452504328560" />
-      <project id="wm_yunying" values="JAVA_MODULE" collectionTime="1455697983210" />
-      <project id="myblogs" values="WEB_MODULE" collectionTime="1456389300156" />
-      <project id="jh_scjd" values="JAVA_MODULE" collectionTime="1450095405807" />
-      <project id="JZLD" values="JAVA_MODULE" collectionTime="1445837917734" />
-      <project id="FullPageSwitch" values="JAVA_MODULE" collectionTime="1453969213366" />
-      <project id="wm_cityplatform" values="JAVA_MODULE" collectionTime="1456739561261" />
+      <project id="wm_yunying" values="JAVA_MODULE" collectionTime="1459391953116" />
+      <project id="myblogs" values="WEB_MODULE" collectionTime="1459412142097" />
+      <project id="jh_scjd" values="JAVA_MODULE" collectionTime="1457945874062" />
+      <project id="HelloHero" values="JAVA_MODULE" collectionTime="1438333135154" />
+      <project id="config" values="JAVA_MODULE" collectionTime="1456796632653" />
+      <project id="wm_cityplatform" values="JAVA_MODULE" collectionTime="1459409414566" />
       <project id="jdk1.7-src" values="JAVA_MODULE" collectionTime="1452512566392" />
       <project id="wxpay" values="JAVA_MODULE" collectionTime="1446189809863" />
       <project id="weixinpay-service" values="JAVA_MODULE" collectionTime="1445993063178" />
-      <project id="FineReport" values="JAVA_MODULE" collectionTime="1438590960194" />
     </group>
     <group name="vcs">
-      <project id="config" values="Git" collectionTime="1452499835009" />
+      <project id="rhitc" values="svn" collectionTime="1458812577510" />
       <project id="OpenJDK-Research" values="Git" collectionTime="1442250178053" />
       <project id="mybatis" values="Git" collectionTime="1452504328560" />
-      <project id="wm_cityplatform" values="svn" collectionTime="1456739561260" />
       <project id="storage" values="svn" collectionTime="1441589170005" />
       <project id="demo" values="svn" collectionTime="1448870497211" />
-      <project id="myblogs" values="Git" collectionTime="1456389300156" />
+      <project id="config" values="Git" collectionTime="1456796632653" />
+      <project id="myblogs" values="Git" collectionTime="1459412142097" />
       <project id="CHSP" values="svn" collectionTime="1445225093364" />
       <project id="wxpay_scanpay_java_demo_proj" values="svn" collectionTime="1445588136408" />
-      <project id="mytask" values="svn" collectionTime="1438851292327" />
-      <project id="echarts" values="Git" collectionTime="1442250206627" />
-      <project id="wm_yunying" values="svn" collectionTime="1455697983209" />
-      <project id="FullPageSwitch" values="Git" collectionTime="1453969213365" />
       <project id="HelloHero" values="svn" collectionTime="1438333135154" />
+      <project id="anything-about-coding" values="Git" collectionTime="1459309174511" />
+      <project id="echarts" values="Git" collectionTime="1442250206627" />
+      <project id="wm_yunying" values="svn" collectionTime="1459391953116" />
+      <project id="FullPageSwitch" values="Git" collectionTime="1453969213365" />
+      <project id="wm_cityplatform" values="svn" collectionTime="1459409414566" />
+    </group>
+    <group name="Spring Boot">
+      <project id="anything-about-coding" values="application.properties,RunConfigsPerProject_1" collectionTime="1459309175264" />
     </group>
     <group name="run-configuration-type">
-      <project id="demo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1448870497212" />
-      <project id="HelloHero" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1438333135155" />
-      <project id="wxpay" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1446189809863" />
+      <project id="rhitc" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1458812577510" />
       <project id="weixinpay-service" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1445993063179" />
-      <project id="JZLD" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1445837917735" />
-      <project id="wm_fuwushang" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1456633638359" />
-      <project id="wm_yunying" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1455697983211" />
-      <project id="jh_scjd" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1450095405807" />
       <project id="wxpay_service" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1455703624997" />
-      <project id="wm_cityplatform" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1456739561262" />
-      <project id="wxpay_scanpay_java_demo_proj" values="MavenRunConfiguration" collectionTime="1445588136408" />
-      <project id="mytask" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1438851292328" />
       <project id="storage" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1441589170005" />
+      <project id="demo" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1448870497212" />
+      <project id="jh_scjd" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1457945874062" />
+      <project id="wxpay_scanpay_java_demo_proj" values="MavenRunConfiguration" collectionTime="1445588136408" />
+      <project id="wm_web" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1459417136413" />
+      <project id="mytask" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1459319355439" />
+      <project id="wm_fuwushang" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1456633638359" />
+      <project id="anything-about-coding" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1459309174512" />
+      <project id="wm_yunying" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1459391953116" />
+      <project id="wm_cityplatform" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1459409414566" />
+      <project id="wxpay" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1446189809863" />
+      <project id="HelloHero" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1438333135155" />
+      <project id="JZLD" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1445837917735" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="wxpay_scanpay_java_demo_proj" values="Application,JUnit" collectionTime="1445588136408" />
       <project id="wxpay_scanpay_java_sdk_proj" values="Application" collectionTime="1445477416598" />
       <project id="test" values="Application" collectionTime="1448268563392" />
       <project id="wm_fuwushang" values="Application,JUnit" collectionTime="1456633638359" />
-      <project id="CoderGenerate" values="Application" collectionTime="1455609033564" />
+      <project id="wm_yunying" values="Application" collectionTime="1459391953116" />
+      <project id="anything-about-coding" values="SpringBootApplicationConfigurationType,GradleRunConfiguration,Application" collectionTime="1459309174512" />
       <project id="wxpay_service" values="Application" collectionTime="1455703624997" />
       <project id="FineReport" values="Application" collectionTime="1438590960195" />
+      <project id="CoderGenerate" values="Application" collectionTime="1458272109020" />
     </group>
     <group name="file-type">
-      <project id="JZLD" values="Properties,HTML,XML,Images,JSP,JavaScript,JAVA,Native,UNKNOWN,PLAIN_TEXT,CSS" collectionTime="1445837917834" />
+      <project id="rhitc" values="Manifest,Markdown,JSP,ARCHIVE,PLAIN_TEXT,Properties,XML,JAVA,UNKNOWN,JavaScript,Images,CSS,Eclipse,HTML" collectionTime="1458812577573" />
       <project id="test" values="JAVA,HTML,UNKNOWN" collectionTime="1448268563408" />
-      <project id="untitled" values="UNKNOWN" collectionTime="1441597285377" />
-      <project id="demo" values="SQL,JAVA,JSP,Properties,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1448870497424" />
-      <project id="FullPageSwitch" values="PLAIN_TEXT,HTML,Images,UNKNOWN,JavaScript" collectionTime="1453969213406" />
-      <project id="config" values="PLAIN_TEXT,XML,kotlin_module,JAVA,ARCHIVE,CLASS,Scratch,UNKNOWN" collectionTime="1452499835013" />
-      <project id="spring-data-redis-demo" values="JAVA,UNKNOWN,Properties,XML" collectionTime="1443579441769" />
-      <project id="jdk1.7-src" values="C++,UNKNOWN,JAVA" collectionTime="1452512566468" />
-      <project id="HelloHero" values="UNKNOWN,CSS,PLAIN_TEXT,Images,JSP,Properties,IDEA_MODULE,JAVA,Eclipse,XML,HTML,Native,JavaScript" collectionTime="1438333135262" />
-      <project id="wm_yunying" values="UNKNOWN,JSP,ARCHIVE,CSS,JavaScript,PLAIN_TEXT,JAVA,HTML,XML,Properties,Images,SQL" collectionTime="1455697983264" />
-      <project id="myblogs" values="Images,UNKNOWN,PLAIN_TEXT" collectionTime="1456389300161" />
-      <project id="wxpay" values="XML,JSP,PLAIN_TEXT,JAVA,UNKNOWN,Images" collectionTime="1446189810022" />
-      <project id="mytask" values="Eclipse,XML,Properties,JAVA,Native,JavaScript,UNKNOWN,HTML,CSS,PLAIN_TEXT,IDEA_MODULE,JSP,Images" collectionTime="1438851292460" />
-      <project id="CoderGenerate" values="XML,Properties,SQL,JSP,Manifest,UNKNOWN,PLAIN_TEXT,JAVA,ARCHIVE" collectionTime="1455609033687" />
-      <project id="OpenJDK-Research" values="Native,Manifest,DTD,SPI,ARCHIVE,Properties,GUI_DESIGNER_FORM,C++,PLAIN_TEXT,JavaScript,Eclipse,XML,UNKNOWN,JAVA,HTML,Images" collectionTime="1442250178061" />
-      <project id="wepay_service" values="XML,UNKNOWN" collectionTime="1445489833116" />
-      <project id="wxpay_scanpay_java_demo_proj" values="Properties,Images,JAVA,Manifest,UNKNOWN,PLAIN_TEXT,XML" collectionTime="1445588136440" />
-      <project id="wm_cityplatform" values="JSP,XML,UNKNOWN,SQL,Images,CSS,JavaScript,JAVA,PLAIN_TEXT,HTML,Properties" collectionTime="1456739561313" />
-      <project id="jzld" values="UNKNOWN" collectionTime="1441504645821" />
-      <project id="wm_fuwushang" values="UNKNOWN,PLAIN_TEXT,JAVA,XML,JSP,Properties" collectionTime="1456633638471" />
-      <project id="wxpay-scanpay-java-demo" values="PLAIN_TEXT,Properties,JAVA,Images,UNKNOWN,XML,Manifest" collectionTime="1445589642806" />
-      <project id="echarts" values="JSHint,CSS,HTML,PLAIN_TEXT,SourceMap,JavaScript,JSON,Images,UNKNOWN" collectionTime="1442250206629" />
+      <project id="untitled" values="UNKNOWN" collectionTime="1458205253736" />
+      <project id="JZLD" values="Images,XML,JSP,Properties,JavaScript,JAVA,HTML,CSS,UNKNOWN,Native,PLAIN_TEXT" collectionTime="1445837917834" />
+      <project id="lkasjdf" values="UNKNOWN" collectionTime="1457488641373" />
+      <project id="FullPageSwitch" values="Images,HTML,UNKNOWN,JavaScript,PLAIN_TEXT" collectionTime="1453969213406" />
+      <project id="config" values="UNKNOWN,ARCHIVE,kotlin_module,JAVA,Scratch,PLAIN_TEXT,XML,CLASS" collectionTime="1456796632701" />
+      <project id="spring-data-redis-demo" values="XML,UNKNOWN,Properties,JAVA" collectionTime="1443579441769" />
+      <project id="jdk1.7-src" values="JAVA,C++,UNKNOWN" collectionTime="1452512566468" />
+      <project id="HelloHero" values="Properties,Eclipse,HTML,Native,JSP,IDEA_MODULE,PLAIN_TEXT,XML,UNKNOWN,JAVA,Images,JavaScript,CSS" collectionTime="1438333135262" />
+      <project id="wm_yunying" values="PLAIN_TEXT,Markdown,JAVA,HTML,Properties,XML,CSS,Images,JSP,UNKNOWN,ARCHIVE,JavaScript" collectionTime="1459391953189" />
+      <project id="myblogs" values="Images,Markdown,UNKNOWN" collectionTime="1459412142122" />
+      <project id="wxpay" values="PLAIN_TEXT,JSP,UNKNOWN,JAVA,XML,Images" collectionTime="1446189810022" />
+      <project id="CoderGenerate" values="SQL,UNKNOWN,ARCHIVE,JSP,XML,JAVA,Manifest,PLAIN_TEXT,Properties" collectionTime="1458272109082" />
+      <project id="wm_web" values="UNKNOWN,XML,Images,JavaScript,JAVA,Markdown,ARCHIVE,CSS,HTML,Properties,JSP,PLAIN_TEXT" collectionTime="1459417136454" />
+      <project id="OpenJDK-Research" values="Properties,ARCHIVE,Eclipse,C++,XML,Images,JavaScript,PLAIN_TEXT,Native,GUI_DESIGNER_FORM,DTD,Manifest,HTML,SPI,UNKNOWN,JAVA" collectionTime="1442250178061" />
+      <project id="wepay_service" values="UNKNOWN,XML" collectionTime="1445489833116" />
+      <project id="haha" values="UNKNOWN" collectionTime="1457429289438" />
+      <project id="wxpay_scanpay_java_demo_proj" values="Manifest,XML,JAVA,Properties,PLAIN_TEXT,Images,UNKNOWN" collectionTime="1445588136440" />
+      <project id="wm_cityplatform" values="JAVA,HTML,JavaScript,JSP,Images,SQL,UNKNOWN,PLAIN_TEXT,Properties,Markdown,CSS,XML" collectionTime="1459409414604" />
+      <project id="demo" values="SQL,UNKNOWN,PLAIN_TEXT,Properties,JSP,JAVA,XML" collectionTime="1448870497424" />
+      <project id="wm_fuwushang" values="Properties,PLAIN_TEXT,UNKNOWN,JSP,XML,JAVA" collectionTime="1456633638471" />
+      <project id="wxpay-scanpay-java-demo" values="PLAIN_TEXT,UNKNOWN,Images,Manifest,Properties,JAVA,XML" collectionTime="1445589642806" />
+      <project id="echarts" values="Images,UNKNOWN,JSHint,SourceMap,JavaScript,JSON,HTML,PLAIN_TEXT,CSS" collectionTime="1442250206629" />
       <project id="shiro-root" values="UNKNOWN" collectionTime="1445941887632" />
-      <project id="mybatis" values="JAVA,Images,CSS,UNKNOWN,DTD,PLAIN_TEXT,Properties,XML,SQL" collectionTime="1452504328592" />
-      <project id="CHSP" values="HTML,C++,XML,CSS,SourceMap,UNKNOWN,Manifest,JSP,ASP,PLAIN_TEXT,Properties,ARCHIVE,C#,Native,JAVA,Eclipse,JavaScript,CLASS,JSON,Images" collectionTime="1445225093371" />
-      <project id="wxpay_service" values="JAVA,XML,PLAIN_TEXT,UNKNOWN,Properties" collectionTime="1455703625060" />
+      <project id="hello" values="UNKNOWN" collectionTime="1457429238529" />
+      <project id="mybatis" values="SQL,XML,DTD,Images,PLAIN_TEXT,UNKNOWN,JAVA,Properties,CSS" collectionTime="1452504328592" />
+      <project id="hehe" values="UNKNOWN" collectionTime="1457490603653" />
+      <project id="mytask" values="Images,JSP,XML,HTML,CSS,UNKNOWN,JavaScript,Markdown,PLAIN_TEXT,Properties,JAVA" collectionTime="1459319355493" />
+      <project id="wxpay_service" values="PLAIN_TEXT,XML,JAVA,UNKNOWN,Properties" collectionTime="1455703625060" />
       <project id="wxpay_scanpay_java_sdk_proj" values="UNKNOWN" collectionTime="1445477416604" />
-      <project id="FineReport" values="JAVA,UNKNOWN,IDEA_MODULE" collectionTime="1438590960515" />
-      <project id="jh_scjd" values="CSS,Properties,UNKNOWN,JSON,HTML,SourceMap,PLAIN_TEXT,JSHint,JAVA,JavaScript,JSP,Images,XML" collectionTime="1450095405935" />
+      <project id="CHSP" values="JSP,SourceMap,ASP,ARCHIVE,C#,Properties,JavaScript,XML,Images,JAVA,Manifest,UNKNOWN,CLASS,JSON,C++,Eclipse,CSS,PLAIN_TEXT,HTML,Native" collectionTime="1445225093371" />
+      <project id="FineReport" values="IDEA_MODULE,JAVA,UNKNOWN" collectionTime="1438590960515" />
+      <project id="jzld" values="UNKNOWN" collectionTime="1441504645821" />
+      <project id="jh_scjd" values="Properties,SourceMap,CSS,JavaScript,PLAIN_TEXT,JSP,UNKNOWN,Images,XML,JAVA,JSON,HTML,JSHint" collectionTime="1457945874106" />
       <project id="storage" values="UNKNOWN" collectionTime="1441589170098" />
-      <project id="weixinpay-service" values="Manifest,PLAIN_TEXT,XML,Properties,JAVA,JSP,UNKNOWN" collectionTime="1445993063423" />
+      <project id="weixinpay-service" values="PLAIN_TEXT,Manifest,XML,JSP,UNKNOWN,JAVA,Properties" collectionTime="1445993063423" />
+      <project id="anything-about-coding" values="HTML,Properties,XML,JAVA,UNKNOWN,Markdown,Groovy,PLAIN_TEXT" collectionTime="1459309174605" />
     </group>
     <group name="jdbc-datasource">
-      <project id="wm_cityplatform" values="Oracle/Oracle Database 11g Release 11.1.0.0.0 - Production" collectionTime="1456739561325" />
+      <project id="wm_cityplatform" values="Oracle/Oracle Database 11g Release 11.1.0.0.0 - Production" collectionTime="1459409414606" />
     </group>
     <group name="jdbc-driver">
-      <project id="wm_yunying" values="oracle.jdbc.OracleDriver" collectionTime="1455697983271" />
+      <project id="wm_yunying" values="oracle.jdbc.OracleDriver" collectionTime="1459391953191" />
       <project id="storage" values="oracle.jdbc.OracleDriver" collectionTime="1441589170245" />
-      <project id="jh_scjd" values="oracle.jdbc.OracleDriver" collectionTime="1450095405943" />
-      <project id="wm_cityplatform" values="oracle.jdbc.OracleDriver" collectionTime="1456739561325" />
+      <project id="jh_scjd" values="oracle.jdbc.OracleDriver" collectionTime="1457945874109" />
+      <project id="wm_cityplatform" values="oracle.jdbc.OracleDriver" collectionTime="1459409414606" />
       <project id="demo" values="oracle.jdbc.OracleDriver" collectionTime="1448870497800" />
     </group>
     <group name="spring">
-      <project id="demo" values="xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/task,fileset_configFiles5,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,fileset_xmlContext,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc" collectionTime="1448870497810" />
-      <project id="weixinpay-service" values="fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/context" collectionTime="1445993063494" />
-      <project id="wxpay" values="xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_configFiles5" collectionTime="1446189810320" />
-      <project id="wm_fuwushang" values="xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/cache,fileset_xmlContext,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/tx" collectionTime="1456633638518" />
-      <project id="wm_yunying" values="xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,fileset_configFiles5,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/p,fileset_xmlContext,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jee,fileset_xmlContext" collectionTime="1455697983274" />
-      <project id="spring-data-redis-demo" values="fileset_configFiles5,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context" collectionTime="1443579442196" />
-      <project id="wxpay_service" values="xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5" collectionTime="1455703625065" />
-      <project id="wm_cityplatform" values="xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/p,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/util,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jee,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/task,fileset_xmlContext,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/task,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/util,fileset_xmlContext" collectionTime="1456739561346" />
-      <project id="JZLD" values="xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/jee,fileset_xmlContext,xmlNS_www.springframework.org/schema/util,fileset_configFiles5,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/task" collectionTime="1445837917866" />
-      <project id="mytask" values="xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jee,fileset_configFiles10,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx" collectionTime="1438851292481" />
-      <project id="jh_scjd" values="xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_configFiles5" collectionTime="1450095405950" />
+      <project id="demo" values="fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jee,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,fileset_configFiles5,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/jee,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop" collectionTime="1448870497810" />
+      <project id="wm_web" values="xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc" collectionTime="1459417136467" />
+      <project id="wxpay" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,fileset_xmlContext" collectionTime="1446189810320" />
+      <project id="weixinpay-service" values="xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc" collectionTime="1445993063494" />
+      <project id="jh_scjd" values="fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/aop" collectionTime="1457945874109" />
+      <project id="wm_fuwushang" values="fileset_xmlContext,fileset_xmlContext,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,fileset_configFiles5,fileset_configFiles5,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context" collectionTime="1456633638518" />
+      <project id="wm_yunying" values="xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc" collectionTime="1459391953193" />
+      <project id="spring-data-redis-demo" values="fileset_configFiles5,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,fileset_xmlContext" collectionTime="1443579442196" />
+      <project id="wm_cityplatform" values="xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/jdbc,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/util,fileset_configFiles5,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/task,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p" collectionTime="1459409414615" />
+      <project id="wxpay_service" values="fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,xmlNS_www.springframework.org/schema/context" collectionTime="1455703625065" />
+      <project id="JZLD" values="fileset_xmlContext,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/util" collectionTime="1445837917866" />
+      <project id="rhitc" values="xmlNS_www.springframework.org/schema/aop,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/context" collectionTime="1458812577581" />
+      <project id="mytask" values="xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,fileset_configFiles10,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx" collectionTime="1459319355501" />
     </group>
     <group name="compiler">
       <project id="storage" values="auto_make" collectionTime="1441589170098" />
       <project id="HelloHero" values="auto_make" collectionTime="1438333135269" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="JZLD" values="Project,Project" collectionTime="1445837917864" />
+      <project id="rhitc" values="Project,Project" collectionTime="1458812577580" />
       <project id="test" values="Project,Project" collectionTime="1448268563409" />
-      <project id="untitled" values="Project,Project" collectionTime="1441597285531" />
-      <project id="demo" values="Project,Project" collectionTime="1448870497801" />
+      <project id="untitled" values="Project,Project" collectionTime="1458205253886" />
+      <project id="JZLD" values="Project,Project" collectionTime="1445837917864" />
+      <project id="lkasjdf" values="Project,Project" collectionTime="1457488641817" />
       <project id="FullPageSwitch" values="Project,Project" collectionTime="1453969213532" />
-      <project id="config" values="Project,Project" collectionTime="1452499835014" />
+      <project id="config" values="Project,Project" collectionTime="1456796632753" />
       <project id="spring-data-redis-demo" values="Project,Project" collectionTime="1443579442194" />
       <project id="jdk1.7-src" values="Project,Project" collectionTime="1452512566606" />
       <project id="HelloHero" values="Project,Project" collectionTime="1438333135291" />
-      <project id="wm_yunying" values="Project,Project" collectionTime="1455697983272" />
-      <project id="myblogs" values="Project,Project" collectionTime="1456389300163" />
+      <project id="wm_yunying" values="Project,Project" collectionTime="1459391953191" />
+      <project id="myblogs" values="Project,Project" collectionTime="1459412142125" />
       <project id="wxpay" values="Project,Project" collectionTime="1446189810318" />
-      <project id="mytask" values="Project,Project" collectionTime="1438851292471" />
-      <project id="CoderGenerate" values="Project,Project" collectionTime="1455609034047" />
+      <project id="CoderGenerate" values="Project,Project" collectionTime="1458272109109" />
+      <project id="wm_web" values="Project,Project" collectionTime="1459417136464" />
       <project id="OpenJDK-Research" values="Project,Project" collectionTime="1442250178062" />
       <project id="wepay_service" values="Project,Project" collectionTime="1445489833118" />
+      <project id="haha" values="Project,Project" collectionTime="1457429289439" />
       <project id="wxpay_scanpay_java_demo_proj" values="Project,Project" collectionTime="1445588136441" />
-      <project id="wm_cityplatform" values="Project,Project" collectionTime="1456739561326" />
-      <project id="jzld" values="Project,Project" collectionTime="1441504645874" />
+      <project id="wm_cityplatform" values="Project,Project" collectionTime="1459409414606" />
+      <project id="demo" values="Project,Project" collectionTime="1448870497801" />
       <project id="wm_fuwushang" values="Project,Project" collectionTime="1456633638513" />
       <project id="wxpay-scanpay-java-demo" values="Project,Project" collectionTime="1445589642808" />
       <project id="echarts" values="Project,Project" collectionTime="1442250206630" />
       <project id="shiro-root" values="Project,Project" collectionTime="1445941887658" />
+      <project id="hello" values="Project,Project" collectionTime="1457429238547" />
       <project id="mybatis" values="Project,Project" collectionTime="1452504328594" />
-      <project id="CHSP" values="Project,Project" collectionTime="1445225093373" />
+      <project id="hehe" values="Project,Project" collectionTime="1457490603655" />
+      <project id="mytask" values="Project,Project" collectionTime="1459319355497" />
       <project id="wxpay_service" values="Project,Project" collectionTime="1455703625064" />
       <project id="wxpay_scanpay_java_sdk_proj" values="Project,Project" collectionTime="1445477416607" />
+      <project id="CHSP" values="Project,Project" collectionTime="1445225093373" />
       <project id="FineReport" values="Project,Project" collectionTime="1438590960617" />
-      <project id="jh_scjd" values="Project,Project" collectionTime="1450095405944" />
+      <project id="jzld" values="Project,Project" collectionTime="1441504645874" />
+      <project id="jh_scjd" values="Project,Project" collectionTime="1457945874109" />
       <project id="storage" values="Project,Project" collectionTime="1441589170249" />
       <project id="weixinpay-service" values="Project,Project" collectionTime="1445993063488" />
+      <project id="anything-about-coding" values="Project,Project" collectionTime="1459309175261" />
     </group>
     <group name="Git">
-      <project id="FullPageSwitch" values="config.force.push.enabled,data.local.branches.count.1,data.remote.branches.count.2+,config.save.policy.STASH,config.warn.about.detached.enabled,data.remotes.in.project.2+,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1453969213416" />
-      <project id="mybatis" values="config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,data.local.branches.count.1,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1452504328593" />
-      <project id="wm_fuwushang" values="config.force.push.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1456633638511" />
-      <project id="wm_yunying" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1455697983270" />
-      <project id="wm_cityplatform" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1456739561324" />
-      <project id="wxpay_service" values="config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1455703625062" />
-      <project id="CoderGenerate" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1455609033716" />
-      <project id="jdk1.7-src" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1452512566475" />
-      <project id="config" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,data.remotes.in.project.1,data.remote.branches.count.1,data.local.branches.count.1,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1452499835014" />
-      <project id="myblogs" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,data.local.branches.count.1,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1" collectionTime="1456389300162" />
+      <project id="rhitc" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1458812577580" />
+      <project id="mytask" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1459319355495" />
+      <project id="hehe" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1457490603654" />
+      <project id="wxpay_service" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1455703625062" />
+      <project id="lkasjdf" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1457488641534" />
+      <project id="hello" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1457429238545" />
+      <project id="myblogs" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.detached.enabled,data.local.branches.count.1,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1459412142123" />
+      <project id="CoderGenerate" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1458272109107" />
+      <project id="jh_scjd" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.DONT_SYNC,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1457945874108" />
+      <project id="config" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.save.policy.STASH,data.remote.branches.count.1,config.push.update.all.roots.enabled" collectionTime="1456796632751" />
+      <project id="wm_web" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1459417136455" />
+      <project id="anything-about-coding" values="data.local.branches.count.1,config.update.type.MERGE,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1459309174664" />
+      <project id="wm_fuwushang" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1456633638511" />
+      <project id="mybatis" values="config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.2+,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1452504328593" />
+      <project id="wm_yunying" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1459391953191" />
+      <project id="untitled" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1458205253744" />
+      <project id="FullPageSwitch" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.remote.branches.count.2+,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.2+,data.local.branches.count.1,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1453969213416" />
+      <project id="wm_cityplatform" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1459409414606" />
+      <project id="jdk1.7-src" values="config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1452512566475" />
+      <project id="haha" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1457429289438" />
     </group>
     <group name="libraries">
-      <project id="demo" values="spring-mvc,spring" collectionTime="1448870497427" />
-      <project id="HelloHero" values="spring-mvc,spring" collectionTime="1438333135269" />
-      <project id="weixinpay-service" values="spring,spring-mvc" collectionTime="1445993063474" />
-      <project id="wxpay" values="spring-mvc,spring" collectionTime="1446189810156" />
-      <project id="wm_fuwushang" values="spring,spring-mvc" collectionTime="1456633638484" />
-      <project id="wm_yunying" values="spring,spring-mvc" collectionTime="1455697983265" />
-      <project id="jh_scjd" values="spring,spring-mvc" collectionTime="1450095405936" />
-      <project id="wm_cityplatform" values="spring,spring-mvc" collectionTime="1456739561315" />
+      <project id="rhitc" values="spring,spring-mvc" collectionTime="1458812577579" />
+      <project id="weixinpay-service" values="spring-mvc,spring" collectionTime="1445993063474" />
       <project id="wxpay_service" values="spring,spring-mvc" collectionTime="1455703625061" />
+      <project id="demo" values="spring,spring-mvc" collectionTime="1448870497427" />
+      <project id="CoderGenerate" values="spring" collectionTime="1458272109106" />
+      <project id="jh_scjd" values="spring,spring-mvc" collectionTime="1457945874107" />
+      <project id="wm_web" values="spring-mvc,spring" collectionTime="1459417136454" />
+      <project id="mytask" values="spring-mvc,spring" collectionTime="1459319355494" />
+      <project id="wm_fuwushang" values="spring,spring-mvc" collectionTime="1456633638484" />
+      <project id="anything-about-coding" values="spring-mvc,groovy,spring-boot,spring,EJB" collectionTime="1459309174637" />
+      <project id="wm_yunying" values="spring-mvc,spring" collectionTime="1459391953190" />
+      <project id="wm_cityplatform" values="spring,spring-mvc" collectionTime="1459409414605" />
+      <project id="wxpay" values="spring,spring-mvc" collectionTime="1446189810156" />
+      <project id="HelloHero" values="spring,spring-mvc" collectionTime="1438333135269" />
       <project id="JZLD" values="spring,spring-mvc" collectionTime="1445837917852" />
-      <project id="mytask" values="spring,spring-mvc" collectionTime="1438851292462" />
-      <project id="CoderGenerate" values="spring" collectionTime="1455609033688" />
     </group>
     <group name="frameworks">
-      <project id="demo" values="Spring" collectionTime="1448870497211" />
-      <project id="HelloHero" values="Spring,web" collectionTime="1438333135154" />
-      <project id="wxpay" values="Spring,web" collectionTime="1446189809863" />
-      <project id="weixinpay-service" values="web,Spring" collectionTime="1445993063178" />
-      <project id="JZLD" values="Spring,JRebel,web" collectionTime="1445837917734" />
-      <project id="wm_fuwushang" values="Spring,web,JRebel" collectionTime="1456633638358" />
-      <project id="wm_yunying" values="web,Spring,JRebel" collectionTime="1455697983210" />
-      <project id="jh_scjd" values="Spring,web,JRebel" collectionTime="1450095405806" />
-      <project id="wxpay_service" values="JRebel,web,Spring" collectionTime="1455703624997" />
-      <project id="CHSP" values="web" collectionTime="1445225093364" />
       <project id="spring-data-redis-demo" values="Spring" collectionTime="1443579441539" />
-      <project id="wm_cityplatform" values="Spring,JRebel,web" collectionTime="1456739561261" />
-      <project id="mytask" values="JRebel,Spring,web" collectionTime="1438851292327" />
+      <project id="weixinpay-service" values="web,Spring" collectionTime="1445993063178" />
+      <project id="wxpay_service" values="web,Spring,JRebel" collectionTime="1455703624997" />
+      <project id="demo" values="Spring" collectionTime="1448870497211" />
+      <project id="rhitc" values="Spring,web,JRebel" collectionTime="1458812577510" />
+      <project id="CHSP" values="web" collectionTime="1445225093364" />
+      <project id="jh_scjd" values="Spring,JRebel,web" collectionTime="1457945874062" />
+      <project id="wm_web" values="Spring,web,JRebel" collectionTime="1459417136413" />
+      <project id="mytask" values="Spring,web" collectionTime="1459319355439" />
+      <project id="wm_fuwushang" values="JRebel,Spring,web" collectionTime="1456633638358" />
+      <project id="anything-about-coding" values="JRebel" collectionTime="1459309174512" />
+      <project id="wm_yunying" values="JRebel,web,Spring" collectionTime="1459391953116" />
+      <project id="HelloHero" values="web,Spring" collectionTime="1438333135154" />
+      <project id="wxpay" values="web,Spring" collectionTime="1446189809863" />
+      <project id="wm_cityplatform" values="Spring,JRebel,web" collectionTime="1459409414566" />
+      <project id="JZLD" values="Spring,JRebel,web" collectionTime="1445837917734" />
     </group>
     <group name="language-level">
-      <project id="JZLD" values="JDK_1_6" collectionTime="1445837917861" />
+      <project id="rhitc" values="JDK_1_7" collectionTime="1458812577580" />
       <project id="test" values="JDK_1_7" collectionTime="1448268563409" />
-      <project id="untitled" values="JDK_1_6" collectionTime="1441597285383" />
-      <project id="demo" values="JDK_1_7,JDK_1_6" collectionTime="1448870497794" />
+      <project id="untitled" values="JDK_1_7" collectionTime="1458205253742" />
+      <project id="JZLD" values="JDK_1_6" collectionTime="1445837917861" />
+      <project id="lkasjdf" values="JDK_1_7" collectionTime="1457488641533" />
       <project id="FullPageSwitch" values="JDK_1_6" collectionTime="1453969213413" />
-      <project id="config" values="JDK_1_6" collectionTime="1452499835014" />
-      <project id="spring-data-redis-demo" values="JDK_1_5,JDK_1_7" collectionTime="1443579441821" />
+      <project id="config" values="JDK_1_6" collectionTime="1456796632738" />
+      <project id="spring-data-redis-demo" values="JDK_1_7,JDK_1_5" collectionTime="1443579441821" />
       <project id="jdk1.7-src" values="JDK_1_6" collectionTime="1452512566474" />
       <project id="HelloHero" values="JDK_1_6" collectionTime="1438333135289" />
-      <project id="wm_yunying" values="JDK_1_6" collectionTime="1455697983269" />
-      <project id="myblogs" values="JDK_1_6" collectionTime="1456389300162" />
-      <project id="wxpay" values="JDK_1_7,JDK_1_6" collectionTime="1446189810172" />
-      <project id="mytask" values="JDK_1_6" collectionTime="1438851292468" />
-      <project id="CoderGenerate" values="JDK_1_6" collectionTime="1455609033715" />
+      <project id="wm_yunying" values="JDK_1_6" collectionTime="1459391953191" />
+      <project id="myblogs" values="JDK_1_6" collectionTime="1459412142122" />
+      <project id="wxpay" values="JDK_1_6,JDK_1_7" collectionTime="1446189810172" />
+      <project id="CoderGenerate" values="JDK_1_6" collectionTime="1458272109107" />
+      <project id="wm_web" values="JDK_1_6" collectionTime="1459417136455" />
       <project id="OpenJDK-Research" values="JDK_1_6" collectionTime="1442250178062" />
       <project id="wepay_service" values="JDK_1_5,JDK_1_7" collectionTime="1445489833117" />
+      <project id="haha" values="JDK_1_7" collectionTime="1457429289438" />
       <project id="wxpay_scanpay_java_demo_proj" values="JDK_1_7,JDK_1_5" collectionTime="1445588136441" />
-      <project id="wm_cityplatform" values="JDK_1_6" collectionTime="1456739561322" />
-      <project id="jzld" values="JDK_1_6" collectionTime="1441504645832" />
+      <project id="wm_cityplatform" values="JDK_1_7,JDK_1_6" collectionTime="1459409414606" />
+      <project id="demo" values="JDK_1_6,JDK_1_7" collectionTime="1448870497794" />
       <project id="wm_fuwushang" values="JDK_1_7,JDK_1_6" collectionTime="1456633638509" />
       <project id="wxpay-scanpay-java-demo" values="JDK_1_6" collectionTime="1445589642807" />
       <project id="echarts" values="JDK_1_6" collectionTime="1442250206629" />
       <project id="shiro-root" values="JDK_1_7" collectionTime="1445941887648" />
+      <project id="hello" values="JDK_1_7" collectionTime="1457429238543" />
       <project id="mybatis" values="JDK_1_7,JDK_1_5" collectionTime="1452504328593" />
-      <project id="CHSP" values="JDK_1_6" collectionTime="1445225093372" />
+      <project id="hehe" values="JDK_1_7" collectionTime="1457490603653" />
+      <project id="mytask" values="JDK_1_6,JDK_1_7,JDK_1_5" collectionTime="1459319355495" />
       <project id="wxpay_service" values="JDK_1_6,JDK_1_7" collectionTime="1455703625062" />
       <project id="wxpay_scanpay_java_sdk_proj" values="JDK_1_6" collectionTime="1445477416605" />
+      <project id="CHSP" values="JDK_1_6" collectionTime="1445225093372" />
       <project id="FineReport" values="JDK_1_8" collectionTime="1438590960548" />
-      <project id="jh_scjd" values="JDK_1_7,JDK_1_6" collectionTime="1450095405940" />
+      <project id="jzld" values="JDK_1_6" collectionTime="1441504645832" />
+      <project id="jh_scjd" values="JDK_1_7,JDK_1_6" collectionTime="1457945874108" />
       <project id="storage" values="JDK_1_6" collectionTime="1441589170108" />
       <project id="weixinpay-service" values="JDK_1_7" collectionTime="1445993063486" />
+      <project id="anything-about-coding" values="JDK_1_8" collectionTime="1459309174660" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="CreateFile.CreateFileAction" count="6" />
       <entry feature="CreateFile.CreateSpringConfigAction" count="1" />
       <entry feature="CreateFile.CreateTaglibFileAction" count="2" />
-      <entry feature="OpenInBrowser.Chrome" count="3" />
+      <entry feature="OpenInBrowser.Chrome" count="4" />
       <entry feature="OpenInBrowser.Internet Explorer" count="2" />
       <entry feature="OpenInBrowser.Opera" count="1" />
       <entry feature="OpenInBrowser.default" count="1" />
       <entry feature="StripeButton[Thumbnails].hidden" count="1" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="2" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="1" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="1314" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="4" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="4" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="1603" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="6" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="5" />
       <entry feature="execute.Application.Coverage" count="1" />
       <entry feature="execute.Application.Debug" count="3" />
-      <entry feature="execute.Application.JRebel Debug" count="31" />
+      <entry feature="execute.Application.JRebel Debug" count="61" />
       <entry feature="execute.Application.JRebel Executor" count="2" />
-      <entry feature="execute.Application.Run" count="212" />
-      <entry feature="execute.JUnit.Run" count="17" />
-      <entry feature="execute.MavenRunConfiguration.Run" count="5" />
+      <entry feature="execute.Application.Run" count="276" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="1" />
+      <entry feature="execute.JUnit.Run" count="18" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="8" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JRebel Debug" count="2" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="4" />
       <entry feature="ide.help.Non-Project_Files_Access_Dialog" count="1" />
+      <entry feature="ide.help.Project_Category_and_Options" count="1" />
       <entry feature="ide.help.debugging.DebugWindow" count="1" />
-      <entry feature="ide.help.ideaInterface.editor" count="43" />
+      <entry feature="ide.help.ideaInterface.editor" count="55" />
       <entry feature="ide.help.ideaInterface.run" count="2" />
       <entry feature="ide.help.reference.changesToolWindow.incoming" count="2" />
       <entry feature="ide.help.reference.dialogs.findinpath" count="1" />
@@ -320,7 +382,7 @@
       <entry feature="ide.settings.Code_Completion" count="10" />
       <entry feature="ide.settings.Code_Folding" count="2" />
       <entry feature="ide.settings.Code_Style" count="11" />
-      <entry feature="ide.settings.Colors_&amp;_Fonts" count="50" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="57" />
       <entry feature="ide.settings.Compiler" count="3" />
       <entry feature="ide.settings.Configure_Path_Variables" count="2" />
       <entry feature="ide.settings.Confirmation" count="6" />
@@ -331,40 +393,43 @@
       <entry feature="ide.settings.Editor_Tabs" count="4" />
       <entry feature="ide.settings.File_Encodings" count="20" />
       <entry feature="ide.settings.File_Types" count="3" />
-      <entry feature="ide.settings.File_and_Code_Templates" count="13" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="23" />
       <entry feature="ide.settings.Font" count="63" />
-      <entry feature="ide.settings.General" count="51" />
+      <entry feature="ide.settings.General" count="56" />
       <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.Gradle" count="1" />
       <entry feature="ide.settings.HTML" count="2" />
       <entry feature="ide.settings.Ignored_Files" count="2" />
       <entry feature="ide.settings.Images" count="1" />
       <entry feature="ide.settings.Inspections" count="12" />
       <entry feature="ide.settings.Java" count="4" />
-      <entry feature="ide.settings.Java_Compiler" count="21" />
+      <entry feature="ide.settings.Java_Compiler" count="35" />
       <entry feature="ide.settings.KeyPromoter" count="2" />
       <entry feature="ide.settings.Live_Templates" count="2" />
+      <entry feature="ide.settings.Markdown" count="1" />
       <entry feature="ide.settings.Maven" count="12" />
-      <entry feature="ide.settings.Plugins" count="4" />
-      <entry feature="ide.settings.Project_Structure" count="38" />
+      <entry feature="ide.settings.Plugins" count="10" />
+      <entry feature="ide.settings.Project_Structure" count="46" />
       <entry feature="ide.settings.SexyEditor" count="25" />
       <entry feature="ide.settings.Smart_Keys" count="9" />
       <entry feature="ide.settings.Subversion" count="24" />
       <entry feature="ide.settings.Tomcat_Server" count="5" />
       <entry feature="ide.settings.Updates" count="1" />
-      <entry feature="ide.settings.Version_Control" count="22" />
+      <entry feature="ide.settings.Version_Control" count="23" />
       <entry feature="ide.settings.Vim_Emulation" count="3" />
       <entry feature="ide.settings.XML" count="22" />
-      <entry feature="idea.caches.invalidated" count="73" />
-      <entry feature="ideaapp.started" count="289" />
+      <entry feature="idea.caches.invalidated" count="91" />
+      <entry feature="ideaapp.started" count="346" />
       <entry feature="spring.MVCRelatedFilesProvider.fromCode" count="1" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="64" />
-      <entry feature="terminal.win" count="4" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="74" />
+      <entry feature="terminal.win" count="6" />
       <entry feature="tips.of.the.day.next" count="11" />
       <entry feature="uml.ShowDiagram.DATABASE" count="2" />
       <entry feature="uml.ShowDiagram.DIFF.popup" count="8" />
       <entry feature="uml.ShowDiagram.JAVA" count="5" />
-      <entry feature="uml.ShowDiagram.JAVA.popup" count="23" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="29" />
       <entry feature="uml.ShowDiagram.MAVEN" count="1" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels.popup" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="11" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
       <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="3" />

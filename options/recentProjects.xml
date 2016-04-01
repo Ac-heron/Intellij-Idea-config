@@ -4,30 +4,78 @@
       <list>
         <option value="D:\javatools\IDEA\IntellijIdea15_conf\config" />
         <option value="F:\MyLife\myblogs" />
+        <option value="D:\IdeaProjects\customerProjects\wm_web" />
         <option value="D:\IdeaProjects\customerProjects\wm_cityplatform" />
-        <option value="D:\IdeaProjects\utility\CoderGenerate" />
         <option value="D:\IdeaProjects\customerProjects\wm_yunying" />
+        <option value="D:\IdeaProjects\pingtaiProjects\mytask" />
+        <option value="D:\IdeaProjects\opensource\anything-about-coding" />
+        <option value="D:\IdeaProjects\pingtaiProjects\rhitc" />
+        <option value="D:\IdeaProjects\utility\CoderGenerate" />
+        <option value="D:\IdeaProjects\customerProjects\mytask" />
+        <option value="D:\IdeaProjects\customerProjects\untitled" />
+        <option value="D:\IdeaProjects\customerProjects\jh_scjd" />
+        <option value="D:\IdeaProjects\opensource\hehe" />
+        <option value="D:\IdeaProjects\opensource\lkasjdf" />
+        <option value="D:\IdeaProjects\opensource\haha" />
+        <option value="D:\IdeaProjects\opensource\hello" />
+        <option value="D:\IdeaProjects\opensource\untitled" />
         <option value="D:\IdeaProjects\customerProjects\wm_fuwushang" />
         <option value="D:\IdeaProjects\customerProjects\wxpay_service" />
-        <option value="D:\IdeaProjects\customerProjects\jh_scjd" />
+        <option value="D:\IdeaProjects\opensource\FullPageSwitch" />
+        <option value="D:\IdeaProjects\opensource\FullPageSwtich" />
+        <option value="D:\javatools\Java\jdk1.7.0_65\src" />
+        <option value="D:\IdeaProjects\opensource\mybatis-3" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:\IdeaProjects\customerProjects\wm_cityplatform" />
+        <option value="D:\IdeaProjects\customerProjects\wm_web" />
       </list>
     </option>
     <option name="lastPath" value="D:\javatools\IDEA\IntellijIdea15_conf\config" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:\IdeaProjects\customerProjects\jh_scjd">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1457945777040" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\customerProjects\mytask">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1458262887993" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\customerProjects\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1458205243464" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:\IdeaProjects\customerProjects\wm_cityplatform">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-143.1184" />
+              <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1452498559974" />
-              <option name="buildTimestamp" value="1449417600000" />
+              <option name="projectOpenTimestamp" value="1459392725438" />
+              <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -37,19 +85,30 @@
               <option name="build" value="IU-143.1184" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1451475341448" />
+              <option name="projectOpenTimestamp" value="1456633557010" />
               <option name="buildTimestamp" value="1449417600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\customerProjects\wm_web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1459471864584" />
+              <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:\IdeaProjects\customerProjects\wm_yunying">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-143.1184" />
+              <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1452176306961" />
-              <option name="buildTimestamp" value="1449417600000" />
+              <option name="projectOpenTimestamp" value="1459388937300" />
+              <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -59,29 +118,161 @@
               <option name="build" value="IU-143.1184" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1451293400563" />
+              <option name="projectOpenTimestamp" value="1455703346908" />
               <option name="buildTimestamp" value="1449417600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\FullPageSwitch">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1453969092041" />
+              <option name="buildTimestamp" value="1449417600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\FullPageSwtich">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1453102163461" />
+              <option name="buildTimestamp" value="1449417600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\anything-about-coding">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1459303104126" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\haha">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1457429282204" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\hehe">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1457490579168" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\hello">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1457429191861" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\lkasjdf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1457488634149" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\mybatis-3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452502747506" />
+              <option name="buildTimestamp" value="1449417600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\opensource\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1457058719583" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\pingtaiProjects\mytask">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1459318277468" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\pingtaiProjects\rhitc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1458804444678" />
+              <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:\IdeaProjects\utility\CoderGenerate">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-143.1184" />
+              <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1452407503920" />
-              <option name="buildTimestamp" value="1449417600000" />
+              <option name="projectOpenTimestamp" value="1458271944577" />
+              <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:\javatools\IDEA\IntellijIdea15_conf\config">
           <value>
             <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1459495291169" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\javatools\Java\jdk1.7.0_65\src">
+          <value>
+            <RecentProjectMetaInfo>
               <option name="build" value="IU-143.1184" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1452499184010" />
+              <option name="projectOpenTimestamp" value="1452511847319" />
               <option name="buildTimestamp" value="1449417600000" />
             </RecentProjectMetaInfo>
           </value>
@@ -89,16 +280,16 @@
         <entry key="F:\MyLife\myblogs">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-143.1184" />
+              <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\javatools\IDEA\IntelliJ IDEA 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1452498977305" />
-              <option name="buildTimestamp" value="1449417600000" />
+              <option name="projectOpenTimestamp" value="1459476266807" />
+              <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="D:/IdeaProjects/customerProjects" />
+    <option name="lastProjectLocation" value="D:/IdeaProjects/pingtaiProjects" />
   </component>
 </application>

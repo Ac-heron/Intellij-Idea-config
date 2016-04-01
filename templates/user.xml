@@ -30,7 +30,6 @@
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
-      <option name="MAVEN" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
